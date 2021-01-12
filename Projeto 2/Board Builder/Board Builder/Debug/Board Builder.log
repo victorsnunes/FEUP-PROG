@@ -1,0 +1,10 @@
+﻿  Board Builder.cpp
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board Builder.cpp(109,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board Builder.cpp(119,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  Board.cpp
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board.cpp(109,38): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board.cpp(114,38): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board.cpp(119,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Board Builder\Board.cpp(208,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando Código...
+  Board Builder.vcxproj -> C:\Users\victo\Desktop\Trabalho Scrubble Junior\Board Builder\Debug\Board Builder.exe
